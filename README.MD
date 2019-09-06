@@ -2,7 +2,7 @@
 
 # uniapp 添加我的小程序 懒人组件
 
-提示添加我的小程序 懒人组件。点击一次后，就不再显示，使用环境为 `uni-app`。  
+提示添加我的小程序 懒人组件。点击一次后，就不再显示，觉得不错可以点个赞哦 :+1: 使用环境为 `uni-app`。  
   
 
 ## 如何获取
@@ -51,6 +51,10 @@ github仓库: [https://github.com/strugglerx/uniapp_add_tips](https://github.com
 	  width: 600upx;
 	  animation: opacityC 1s linear infinite;
 	}
+
+    ......
+
+</style>
 ```
   
 ## 实际效果
@@ -62,7 +66,7 @@ github仓库: [https://github.com/strugglerx/uniapp_add_tips](https://github.com
 ## 反馈问题
 如在使用中发现bug或有优化的建议和意见，请发邮件 <str@li.cm> 或在 [gitHub](https://github.com/strugglerx/uniapp_add_tips) 上反馈。
 
-vx:strongdreams
+:zap:wechat:strongdreams
   
 ## 更新日志
 
