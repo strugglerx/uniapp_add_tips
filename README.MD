@@ -2,7 +2,7 @@
 
 # uniapp 添加我的小程序 懒人组件
 
-提示添加我的小程序 懒人组件，使用环境为 `uni-app`。  
+提示添加我的小程序 懒人组件。点击一次后，就不再显示，使用环境为 `uni-app`。  
   
 
 ## 如何获取
@@ -34,6 +34,24 @@ github仓库: [https://github.com/strugglerx/uniapp_add_tips](https://github.com
 		}
 	}
 ```
+主题色更改
+```scss
+<style lang="scss" scoped>
+	$themeColor:#34b5e2; //在这里修改提示框的颜色
+	.uni-add-tips-box {
+	  position: fixed;
+	  top:0;
+	  right: 0;
+	  z-index: 99999;
+	  opacity: 0.8;
+	  display: flex;
+	  justify-content: flex-end;
+	  align-items: flex-end;
+	  flex-direction: column;
+	  width: 600upx;
+	  animation: opacityC 1s linear infinite;
+	}
+```
   
 ## 实际效果
 
@@ -48,7 +66,5 @@ vx:strongdreams
   
 ## 更新日志
 
-2019.6.3 *v0.0.2*  返回主页修改为switchTab 
-
-2019.6.1 *v0.0.1*  创建本插件  
+2019.9.6 *v0.0.1*  创建本插件  
   
