@@ -70,5 +70,6 @@ github仓库: [https://github.com/strugglerx/uniapp_add_tips](https://github.com
   
 ## 更新日志
 
+2019.9.6 *v0.0.2*  修正文档  
 2019.9.6 *v0.0.1*  创建本插件  
   
