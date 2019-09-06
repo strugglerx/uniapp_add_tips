@@ -21,7 +21,7 @@ github仓库: [https://github.com/strugglerx/uniapp_add_tips](https://github.com
 ```
   
 ```javascript
-	import addTip from "../../components/uni-add-tips/uni-add-tips"
+	import addTip from "../../components/struggler-uniapp-add-tip/struggler-uniapp-add-tip"
 	export default {
 		data() {
 			return {
