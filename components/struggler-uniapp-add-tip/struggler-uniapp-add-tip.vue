@@ -18,9 +18,9 @@
 		},
 		mounted() {
 			this.showTip = !uni.getStorageInfoSync().keys.includes(SHOW_TIP)
-			// setTimeout(()=>{
-			// 	this.showTip = false
-			// },this.duration*1000)
+			setTimeout(()=>{
+				this.showTip = false
+			},this.duration*1000)
 		},
 		props:{
 			tip:{
